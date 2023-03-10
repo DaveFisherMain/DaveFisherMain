@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Everyone 👋
 
 <!--
 **DaveFisherMain/DaveFisherMain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Soy DaveFisherMain pa' los cuates soy Dave.
+
+Aun no se como interactuar bien con esto de github asi que me guiaré por lo que dice el template:
+
+- Actualmente me dedico al analisis de datos, se hace de los mas interesante ver tendencias y averiguar oportunidades en la información
+- Estoy aprendiendo a usar GITHUB y también inglés (dicen que es importante)
+- Estoy buscando ayuda en temas de ciberseguridad
+- Me pueden contactar en. . .  proximamente haré una cuenta para contacto.
+- Un hecho interesante / gracioso: si necesitan resolver un problema con su banco es una buena idea que llamen de mañana a los callcenters por lo general les atenderan rápido y bien ya que por lo general nadie llama en ese horario y por cuestiones de calidad se suele tomar la primera llamada para evaluaciones
